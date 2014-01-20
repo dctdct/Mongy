@@ -4,6 +4,9 @@ Mongy
 The Mongy class represents a lightweight way to interact with MongoDB databases. Based on:
 http://fuelphp.com/docs/classes/mongo/methods.html
 
+German Blog
+http://www.davidchristian.de/index.php/blog/post/mongy-eine-leichtgewichtige-php-mongodb-klasse
+
 ## A Simple Example
 
 ```php
